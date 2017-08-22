@@ -1,0 +1,13 @@
+C:\Users\Aya\Documents\Visual Studio 2015\Projects\FactoryMethod\Main\bin\Debug\Main.exe.config
+C:\Users\Aya\Documents\Visual Studio 2015\Projects\FactoryMethod\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+C:\Users\Aya\Documents\Visual Studio 2015\Projects\FactoryMethod\Main\bin\Debug\Main.exe
+C:\Users\Aya\Documents\Visual Studio 2015\Projects\FactoryMethod\Main\bin\Debug\Main.pdb
+C:\Users\Aya\Documents\Visual Studio 2015\Projects\FactoryMethod\Main\bin\Debug\Framework.exe
+C:\Users\Aya\Documents\Visual Studio 2015\Projects\FactoryMethod\Main\bin\Debug\Idcard.exe
+C:\Users\Aya\Documents\Visual Studio 2015\Projects\FactoryMethod\Main\bin\Debug\Framework.pdb
+C:\Users\Aya\Documents\Visual Studio 2015\Projects\FactoryMethod\Main\bin\Debug\Idcard.pdb
+C:\Users\Aya\Documents\Visual Studio 2015\Projects\FactoryMethod\Main\obj\Debug\Main.exe
+C:\Users\Aya\Documents\Visual Studio 2015\Projects\FactoryMethod\Main\obj\Debug\Main.pdb
+C:\Users\Aya\Desktop\FactoryMethod\Main\bin\Debug\Main.exe.config
+C:\Users\Aya\Desktop\FactoryMethod\Main\obj\Debug\Main.exe
+C:\Users\Aya\Desktop\FactoryMethod\Main\obj\Debug\Main.pdb
