@@ -1,0 +1,8 @@
+C:\Users\Aya\Documents\Visual Studio 2015\Projects\FactoryMethod\Idcard\bin\Debug\Idcard.exe.config
+C:\Users\Aya\Documents\Visual Studio 2015\Projects\FactoryMethod\Idcard\bin\Debug\Idcard.exe
+C:\Users\Aya\Documents\Visual Studio 2015\Projects\FactoryMethod\Idcard\bin\Debug\Idcard.pdb
+C:\Users\Aya\Documents\Visual Studio 2015\Projects\FactoryMethod\Idcard\bin\Debug\Framework.exe
+C:\Users\Aya\Documents\Visual Studio 2015\Projects\FactoryMethod\Idcard\bin\Debug\Framework.pdb
+C:\Users\Aya\Documents\Visual Studio 2015\Projects\FactoryMethod\Idcard\obj\Debug\Idcard.csprojResolveAssemblyReference.cache
+C:\Users\Aya\Documents\Visual Studio 2015\Projects\FactoryMethod\Idcard\obj\Debug\Idcard.exe
+C:\Users\Aya\Documents\Visual Studio 2015\Projects\FactoryMethod\Idcard\obj\Debug\Idcard.pdb
